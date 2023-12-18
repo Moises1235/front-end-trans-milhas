@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Pictures/Screenshots/guia-passageiro-ofc-main"
+		},
+		{
+			"path": "../Downloads/BACK-END REAL OFICIAL 2023 ATUALIZADO/back-end-trans-milhas-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "guia-passageiro-ofc-main"
+	}
+}
